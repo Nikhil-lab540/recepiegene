@@ -1,0 +1,3 @@
+streamlit
+groq  # Adjust based on the actual version of Groq API you're using
+requests
